@@ -1,11 +1,10 @@
-# Version Info
-just for safe keeping, im keeping all previous modpacks
-higher version is the newer modpacks
-so "THE BOYS-15" is more recent then "THE BOYS-12" and you should
-download "THE BOYS-15"
+# SMPv3
 
-This is import method, so just use the curseforge application and import this way
+We are using Essential instead of a server to play together
 
-# Issues
-- Occulus
-- Fresh Animations
+The latest version is always the higher number.
+For example if there are 1, 2, 3, 4, and 5 then 5 is the latest version.
+
+Other versions will simply be kept incase of mod erros, so its easy to revert
+
+Install this using CurseForges import function.
