@@ -13,3 +13,6 @@ then open to the folder that says "Import This Zip"
 inside this folder will be another zip, this is the zip you will select with curseforge.
 
 Install this using CurseForges import function.
+
+# Errors
+- Lag
