@@ -14,5 +14,14 @@ inside this folder will be another zip, this is the zip you will select with cur
 
 Install this using CurseForges import function.
 
-# Errors
-- Lag
+# Transfering Data
+In the previous mod folder select
+- options.txt
+- XaeroWorldMap
+- XaeroWaypoints
+- XaeroWaypoints_... [anything that has this]
+- immersive_paintings
+- immersive_paintings_cache
+- essential
+
+then copy these into the new folder.
