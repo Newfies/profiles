@@ -34,7 +34,7 @@ To install mods using CurseForge's import function, follow these steps:
 Navigate to the folder labeled "Import This Zip." Inside, locate the zip file you want to install. Use CurseForge's import function to install the selected zip file.
 
 ### Known Issues
-Nothing yet!
+Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IlegalStateException: Server sent an impossible command tree
 
 ### Other Notes
 - Backups will be archived to reduce the GitHub Repository size every 10 versions. These will be found in the ARCHIVES folder
